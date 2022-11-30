@@ -27,3 +27,6 @@ Compiled all data related to holiday fatalities and crashes in rural and urban a
 Ruoyu (Roy):
 
 Compiled all data related to vehicle type fatalities and crashes in rural and urban areas.
+More specifically, the analysis contains line chart first visualize to determine trend lines.
+The correlation is calculated to determine trend coefficient in urban and rural counties.
+Finally, a heatmap of correlation matric is ploted.
