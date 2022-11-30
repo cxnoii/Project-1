@@ -22,7 +22,7 @@ Compiled all data related to fatalities and crashes in rural and urban areas.
 
 Robert:
 
-Compiled all data related to holiday fatalities and crashes in rural and urban areas.
+Compiled all data related to holiday fatalities.  More specifically, using a line chart to show all holidays and the overall trend as it relates to before ride-share apps were released, and after.  Further individual analysis was done for each individual holiday using scatter plots.
 
 Ruoyu (Roy):
 
